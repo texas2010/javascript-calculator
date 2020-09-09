@@ -1,1 +1,1 @@
-# my webpack boilerplate
+# Javascript Calculator Project

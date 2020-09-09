@@ -1,4 +1,4 @@
-const myPublicPath = 'dist'
+const myPublicPath = 'docs'
 
 const path = require('path')
 const HtmlWebpackPlugin = require('html-webpack-plugin');
